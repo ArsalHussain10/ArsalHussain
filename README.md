@@ -1,5 +1,9 @@
 <h1 align="left">Hey, I'm <a href="https://www.linkedin.com/in/muhammad-arsal-730877217/">Arsal Hussain</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
+## About
+<div style="line-height: 1.15">
+    <p>At the dynamic age of 23, I’m a lively and academically motivated person who is presently working as Associate software engineer at Qbatch Lahore. I aspire to leave a lasting impression in the fields of software development and artificial intelligence because of my ardent curiosity for the rapidly developing world of technology. Outside of the walls of academia, my diverse personality is brought to life through my love for cricket, music, movies, and football. I find comfort, inspiration, and a deep understanding for the complexities of collaboration, creativity, and the power of expression through my many activities. I’m unapologetically brave and epitomize the spirit of an unrelenting adventurer, ready to change the world with my sharp mind and unyielding will.</p>
+</div>
 ## 📚 Industry Experience
 <div style="line-height: 1.15">
     <b>Associate Software Engineer - Qbatch </b>
