@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm <a href="www.linkedin.com/in/muhammad-arsal-730877217">Arsal Hussain</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-## 📚 Inductry Experience
+## 📚 Industry Experience
 <div style="line-height: 1.15">
     <b>Associate Software Engineer - Qbatch </b>
     <p>August 2023 - present</p>
