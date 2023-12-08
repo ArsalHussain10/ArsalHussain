@@ -18,6 +18,7 @@
 <div style="line-height: 1.15">
     <b>PUCIT (Old Campus)</b>
     <p>BS (Computer Science)</p>
+    <p>CGPA: <b>3.52</b> </p>
 </div>
 
 
