@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm <a href="www.linkedin.com/in/muhammad-arsal-730877217">Arsal Hussain</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<h1 align="left">Hey, I'm <a href="https://www.linkedin.com/in/muhammad-arsal-730877217/">Arsal Hussain</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
 ## 📚 Industry Experience
 <div style="line-height: 1.15">
@@ -42,7 +42,7 @@
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
   <a href="mailto:muhammadarsal236@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/muhammad-arsal-730877217"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-arsal-730877217/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ArsalHussain10"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <!-- For differnt icons I found this very useful.(https://github.com/alexandresanlim/Badges4-README.md-Profile) -->
