@@ -9,6 +9,7 @@
 <div style="line-height: 1.15">
     <b>Associate Software Engineer - Qbatch </b>
     <p>August 2023 - present</p>
+    <p>MERN</p>
 </div>
 
 
